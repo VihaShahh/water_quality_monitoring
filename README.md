@@ -177,8 +177,3 @@ Contributions are always welcome! If you find improvements, bugs, or want to add
 Working together makes the project better for everyone!
 
 ---
-
-## 💬 Closing Note
-
-The Water Quality Monitoring system is built to bring **transparency, speed, and structure** to water complaint handling.
-With a combination of modern frontend technologies and a strong backend, this platform is both practical and scalable — whether used in a college project or expanded for real-world implementations.
